@@ -1,0 +1,32 @@
+[
+    {
+        "title": "To Kill A Mockingbird",
+        "author": "Harper Lee",
+        "available": "Yes",
+        "pages": 336,
+        "isbn": 9780061120084
+    },
+    {
+        "title": "One Hundred Years Of Solitude",
+        "author": "Gabriel Garcia Marquez",
+        "available": "No",
+        "pages": 457,
+        "isbn": 9785267006323
+    },
+    {
+        "title": "7 Years in Tibet",
+        "author": "Bram Stoker",
+        "available": "Yes",
+        "pages": "475",
+        "isbn": "9780061120084",
+        "submit": "Submit"
+    },
+    {
+        "title": "Asman",
+        "author": "Latiful Islam Shibli",
+        "available": "Yes",
+        "pages": "330",
+        "isbn": "1236554",
+        "submit": "Submit"
+    }
+]
